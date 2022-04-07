@@ -18,4 +18,5 @@ func main() {
 
 	// serve the html directory by default
 	http.Handle("/", http.FileServer(http.FS(htmlContent)))
+	http.ListenAndServe(":8080", nil)
 }
