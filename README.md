@@ -15,3 +15,5 @@ Check the status and app URL
 ```
 m3o app status --name=helloworld 
 ```
+
+Go to [helloworld.m3o.app](https://helloworld.m3o.app)
