@@ -1,6 +1,6 @@
 # M3O App
 
-The M3O static app template
+The M3O app template
 
 ## Usage
 
