@@ -7,7 +7,7 @@ The M3O static app template
 Fork the project, drop files in the html dir, commit back and run the app
 
 ```
-m3o app run --name=helloworld --repo=github.com/my/repo
+m3o app run --name=helloworld --repo=https://github.com/m3o/m3o-app
 ```
 
 Check the status and app URL 
