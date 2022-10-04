@@ -4,6 +4,8 @@ The M3O app template
 
 ## Usage
 
+Install the [m3o-cli](https://github.com/m3o/m3o-cli)
+
 Fork the project, drop files in the html dir, commit back and run the app
 
 ```
